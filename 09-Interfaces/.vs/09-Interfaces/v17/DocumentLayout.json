@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\C#\\09-Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|d:\\documentos\\c#\\09-interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|d:\\documentos\\c#\\09-interfaces\\avisosvarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|solutionrelative:avisosvarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|d:\\documentos\\c#\\09-interfaces\\iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EF0BB2D-9140-49F0-A0BB-EDCCD6AE5681}|09-Interfaces.csproj|solutionrelative:iavisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AvisosVarios.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\09-Interfaces\\AvisosVarios.cs",
+              "RelativeDocumentMoniker": "AvisosVarios.cs",
+              "ToolTip": "D:\\Documentos\\C#\\09-Interfaces\\AvisosVarios.cs",
+              "RelativeToolTip": "AvisosVarios.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:58:21.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAvisos.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\09-Interfaces\\IAvisos.cs",
+              "RelativeDocumentMoniker": "IAvisos.cs",
+              "ToolTip": "D:\\Documentos\\C#\\09-Interfaces\\IAvisos.cs",
+              "RelativeToolTip": "IAvisos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T13:37:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\09-Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documentos\\C#\\09-Interfaces\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T12:15:00.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

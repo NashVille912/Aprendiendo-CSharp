@@ -1,0 +1,14 @@
+D:\Documentos\C#\09-Interfaces\bin\Debug\net8.0\09-Interfaces.exe
+D:\Documentos\C#\09-Interfaces\bin\Debug\net8.0\09-Interfaces.deps.json
+D:\Documentos\C#\09-Interfaces\bin\Debug\net8.0\09-Interfaces.runtimeconfig.json
+D:\Documentos\C#\09-Interfaces\bin\Debug\net8.0\09-Interfaces.dll
+D:\Documentos\C#\09-Interfaces\bin\Debug\net8.0\09-Interfaces.pdb
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.AssemblyInfoInputs.cache
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.AssemblyInfo.cs
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.dll
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\refint\09-Interfaces.dll
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.pdb
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\09-Interfaces.genruntimeconfig.cache
+D:\Documentos\C#\09-Interfaces\obj\Debug\net8.0\ref\09-Interfaces.dll
