@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\C#\\03-Condicionales\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6115AAB0-F88E-4508-B206-DF06A4780C2F}|03-Condicionales\\03-Condicionales.csproj|d:\\documentos\\c#\\03-condicionales\\03-condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6115AAB0-F88E-4508-B206-DF06A4780C2F}|03-Condicionales\\03-Condicionales.csproj|solutionrelative:03-condicionales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\03-Condicionales\\03-Condicionales\\Program.cs",
+              "RelativeDocumentMoniker": "03-Condicionales\\Program.cs",
+              "ToolTip": "D:\\Documentos\\C#\\03-Condicionales\\03-Condicionales\\Program.cs",
+              "RelativeToolTip": "03-Condicionales\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:32:45.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

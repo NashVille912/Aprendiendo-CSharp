@@ -1,0 +1,14 @@
+D:\Documentos\C#\05-Excepciones\05-Excepciones\bin\Debug\net8.0\05-Excepciones.exe
+D:\Documentos\C#\05-Excepciones\05-Excepciones\bin\Debug\net8.0\05-Excepciones.deps.json
+D:\Documentos\C#\05-Excepciones\05-Excepciones\bin\Debug\net8.0\05-Excepciones.runtimeconfig.json
+D:\Documentos\C#\05-Excepciones\05-Excepciones\bin\Debug\net8.0\05-Excepciones.dll
+D:\Documentos\C#\05-Excepciones\05-Excepciones\bin\Debug\net8.0\05-Excepciones.pdb
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.AssemblyInfoInputs.cache
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.AssemblyInfo.cs
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.dll
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\refint\05-Excepciones.dll
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.pdb
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\05-Excepciones.genruntimeconfig.cache
+D:\Documentos\C#\05-Excepciones\05-Excepciones\obj\Debug\net8.0\ref\05-Excepciones.dll

@@ -1,0 +1,14 @@
+D:\Documentos\C#\08-Herencia\bin\Debug\net8.0\08-Herencia.exe
+D:\Documentos\C#\08-Herencia\bin\Debug\net8.0\08-Herencia.deps.json
+D:\Documentos\C#\08-Herencia\bin\Debug\net8.0\08-Herencia.runtimeconfig.json
+D:\Documentos\C#\08-Herencia\bin\Debug\net8.0\08-Herencia.dll
+D:\Documentos\C#\08-Herencia\bin\Debug\net8.0\08-Herencia.pdb
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.AssemblyInfoInputs.cache
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.AssemblyInfo.cs
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.dll
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\refint\08-Herencia.dll
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.pdb
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\08-Herencia.genruntimeconfig.cache
+D:\Documentos\C#\08-Herencia\obj\Debug\net8.0\ref\08-Herencia.dll

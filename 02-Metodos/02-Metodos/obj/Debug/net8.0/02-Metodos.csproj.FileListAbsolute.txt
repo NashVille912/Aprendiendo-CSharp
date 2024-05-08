@@ -1,0 +1,14 @@
+D:\Documentos\C#\02-Metodos\02-Metodos\bin\Debug\net8.0\02-Metodos.exe
+D:\Documentos\C#\02-Metodos\02-Metodos\bin\Debug\net8.0\02-Metodos.deps.json
+D:\Documentos\C#\02-Metodos\02-Metodos\bin\Debug\net8.0\02-Metodos.runtimeconfig.json
+D:\Documentos\C#\02-Metodos\02-Metodos\bin\Debug\net8.0\02-Metodos.dll
+D:\Documentos\C#\02-Metodos\02-Metodos\bin\Debug\net8.0\02-Metodos.pdb
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.AssemblyInfoInputs.cache
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.AssemblyInfo.cs
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.dll
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\refint\02-Metodos.dll
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.pdb
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\02-Metodos.genruntimeconfig.cache
+D:\Documentos\C#\02-Metodos\02-Metodos\obj\Debug\net8.0\ref\02-Metodos.dll

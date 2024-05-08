@@ -1,0 +1,14 @@
+D:\Documentos\C#\04-Bucles\04-Bucles\bin\Debug\net8.0\04-Bucles.exe
+D:\Documentos\C#\04-Bucles\04-Bucles\bin\Debug\net8.0\04-Bucles.deps.json
+D:\Documentos\C#\04-Bucles\04-Bucles\bin\Debug\net8.0\04-Bucles.runtimeconfig.json
+D:\Documentos\C#\04-Bucles\04-Bucles\bin\Debug\net8.0\04-Bucles.dll
+D:\Documentos\C#\04-Bucles\04-Bucles\bin\Debug\net8.0\04-Bucles.pdb
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.AssemblyInfoInputs.cache
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.AssemblyInfo.cs
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.dll
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\refint\04-Bucles.dll
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.pdb
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\04-Bucles.genruntimeconfig.cache
+D:\Documentos\C#\04-Bucles\04-Bucles\obj\Debug\net8.0\ref\04-Bucles.dll

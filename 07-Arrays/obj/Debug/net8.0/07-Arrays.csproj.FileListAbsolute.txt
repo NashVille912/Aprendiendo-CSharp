@@ -1,0 +1,14 @@
+D:\Documentos\C#\07-Arrays\bin\Debug\net8.0\07-Arrays.exe
+D:\Documentos\C#\07-Arrays\bin\Debug\net8.0\07-Arrays.deps.json
+D:\Documentos\C#\07-Arrays\bin\Debug\net8.0\07-Arrays.runtimeconfig.json
+D:\Documentos\C#\07-Arrays\bin\Debug\net8.0\07-Arrays.dll
+D:\Documentos\C#\07-Arrays\bin\Debug\net8.0\07-Arrays.pdb
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.AssemblyInfoInputs.cache
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.AssemblyInfo.cs
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.dll
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\refint\07-Arrays.dll
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.pdb
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\07-Arrays.genruntimeconfig.cache
+D:\Documentos\C#\07-Arrays\obj\Debug\net8.0\ref\07-Arrays.dll

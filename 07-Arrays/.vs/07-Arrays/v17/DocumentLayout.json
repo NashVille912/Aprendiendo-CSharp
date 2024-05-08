@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentos\\C#\\07-Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|d:\\documentos\\c#\\07-arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|d:\\documentos\\c#\\07-arrays\\metodosarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|solutionrelative:metodosarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|d:\\documentos\\c#\\07-arrays\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59A9F04-E9DD-46E9-9775-E2194782C607}|07-Arrays.csproj|solutionrelative:arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\07-Arrays\\Arrays.cs",
+              "RelativeDocumentMoniker": "Arrays.cs",
+              "ToolTip": "D:\\Documentos\\C#\\07-Arrays\\Arrays.cs",
+              "RelativeToolTip": "Arrays.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwC4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:17:55.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetodosArray.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\07-Arrays\\MetodosArray.cs",
+              "RelativeDocumentMoniker": "MetodosArray.cs",
+              "ToolTip": "D:\\Documentos\\C#\\07-Arrays\\MetodosArray.cs",
+              "RelativeToolTip": "MetodosArray.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T12:17:19.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\07-Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Documentos\\C#\\07-Arrays\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:59:49.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

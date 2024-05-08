@@ -1,0 +1,14 @@
+D:\Documentos\C#\03-Condicionales\03-Condicionales\bin\Debug\net8.0\03-Condicionales.exe
+D:\Documentos\C#\03-Condicionales\03-Condicionales\bin\Debug\net8.0\03-Condicionales.deps.json
+D:\Documentos\C#\03-Condicionales\03-Condicionales\bin\Debug\net8.0\03-Condicionales.runtimeconfig.json
+D:\Documentos\C#\03-Condicionales\03-Condicionales\bin\Debug\net8.0\03-Condicionales.dll
+D:\Documentos\C#\03-Condicionales\03-Condicionales\bin\Debug\net8.0\03-Condicionales.pdb
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.AssemblyInfoInputs.cache
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.AssemblyInfo.cs
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.dll
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\refint\03-Condicionales.dll
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.pdb
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\03-Condicionales.genruntimeconfig.cache
+D:\Documentos\C#\03-Condicionales\03-Condicionales\obj\Debug\net8.0\ref\03-Condicionales.dll

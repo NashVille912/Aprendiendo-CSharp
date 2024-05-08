@@ -1,0 +1,14 @@
+D:\Documentos\C#\06-POO\06-POO\bin\Debug\net8.0\06-POO.exe
+D:\Documentos\C#\06-POO\06-POO\bin\Debug\net8.0\06-POO.deps.json
+D:\Documentos\C#\06-POO\06-POO\bin\Debug\net8.0\06-POO.runtimeconfig.json
+D:\Documentos\C#\06-POO\06-POO\bin\Debug\net8.0\06-POO.dll
+D:\Documentos\C#\06-POO\06-POO\bin\Debug\net8.0\06-POO.pdb
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.AssemblyInfoInputs.cache
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.AssemblyInfo.cs
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.dll
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\refint\06-POO.dll
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.pdb
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\06-POO.genruntimeconfig.cache
+D:\Documentos\C#\06-POO\06-POO\obj\Debug\net8.0\ref\06-POO.dll
