@@ -1,0 +1,15 @@
+D:\Documentos\C#\10-ClasesAbstractas\bin\Debug\net8.0\10-ClasesAbstractas.exe
+D:\Documentos\C#\10-ClasesAbstractas\bin\Debug\net8.0\10-ClasesAbstractas.deps.json
+D:\Documentos\C#\10-ClasesAbstractas\bin\Debug\net8.0\10-ClasesAbstractas.runtimeconfig.json
+D:\Documentos\C#\10-ClasesAbstractas\bin\Debug\net8.0\10-ClasesAbstractas.dll
+D:\Documentos\C#\10-ClasesAbstractas\bin\Debug\net8.0\10-ClasesAbstractas.pdb
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.AssemblyInfoInputs.cache
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.AssemblyInfo.cs
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.sourcelink.json
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.dll
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\refint\10-ClasesAbstractas.dll
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.pdb
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\10-ClasesAbstractas.genruntimeconfig.cache
+D:\Documentos\C#\10-ClasesAbstractas\obj\Debug\net8.0\ref\10-ClasesAbstractas.dll

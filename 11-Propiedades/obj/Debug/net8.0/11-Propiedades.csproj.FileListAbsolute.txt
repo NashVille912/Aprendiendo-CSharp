@@ -1,0 +1,15 @@
+D:\Documentos\C#\11-Propiedades\bin\Debug\net8.0\11-Propiedades.exe
+D:\Documentos\C#\11-Propiedades\bin\Debug\net8.0\11-Propiedades.deps.json
+D:\Documentos\C#\11-Propiedades\bin\Debug\net8.0\11-Propiedades.runtimeconfig.json
+D:\Documentos\C#\11-Propiedades\bin\Debug\net8.0\11-Propiedades.dll
+D:\Documentos\C#\11-Propiedades\bin\Debug\net8.0\11-Propiedades.pdb
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.AssemblyInfoInputs.cache
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.AssemblyInfo.cs
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.sourcelink.json
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.dll
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\refint\11-Propiedades.dll
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.pdb
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\11-Propiedades.genruntimeconfig.cache
+D:\Documentos\C#\11-Propiedades\obj\Debug\net8.0\ref\11-Propiedades.dll
