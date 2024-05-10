@@ -1,0 +1,15 @@
+D:\Documentos\C#\12-Destructores\bin\Debug\net8.0\12-Destructores.exe
+D:\Documentos\C#\12-Destructores\bin\Debug\net8.0\12-Destructores.deps.json
+D:\Documentos\C#\12-Destructores\bin\Debug\net8.0\12-Destructores.runtimeconfig.json
+D:\Documentos\C#\12-Destructores\bin\Debug\net8.0\12-Destructores.dll
+D:\Documentos\C#\12-Destructores\bin\Debug\net8.0\12-Destructores.pdb
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.AssemblyInfoInputs.cache
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.AssemblyInfo.cs
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.sourcelink.json
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.dll
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\refint\12-Destructores.dll
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.pdb
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\12-Destructores.genruntimeconfig.cache
+D:\Documentos\C#\12-Destructores\obj\Debug\net8.0\ref\12-Destructores.dll

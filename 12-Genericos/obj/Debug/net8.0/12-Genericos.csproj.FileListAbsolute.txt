@@ -1,0 +1,15 @@
+D:\Documentos\C#\12-Genericos\bin\Debug\net8.0\12-Genericos.exe
+D:\Documentos\C#\12-Genericos\bin\Debug\net8.0\12-Genericos.deps.json
+D:\Documentos\C#\12-Genericos\bin\Debug\net8.0\12-Genericos.runtimeconfig.json
+D:\Documentos\C#\12-Genericos\bin\Debug\net8.0\12-Genericos.dll
+D:\Documentos\C#\12-Genericos\bin\Debug\net8.0\12-Genericos.pdb
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.AssemblyInfoInputs.cache
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.AssemblyInfo.cs
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.sourcelink.json
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.dll
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\refint\12-Genericos.dll
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.pdb
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\12-Genericos.genruntimeconfig.cache
+D:\Documentos\C#\12-Genericos\obj\Debug\net8.0\ref\12-Genericos.dll
