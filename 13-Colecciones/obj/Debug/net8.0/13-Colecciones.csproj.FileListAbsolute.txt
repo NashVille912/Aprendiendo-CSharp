@@ -1,0 +1,15 @@
+D:\Documentos\C#\13-Colecciones\bin\Debug\net8.0\13-Colecciones.exe
+D:\Documentos\C#\13-Colecciones\bin\Debug\net8.0\13-Colecciones.deps.json
+D:\Documentos\C#\13-Colecciones\bin\Debug\net8.0\13-Colecciones.runtimeconfig.json
+D:\Documentos\C#\13-Colecciones\bin\Debug\net8.0\13-Colecciones.dll
+D:\Documentos\C#\13-Colecciones\bin\Debug\net8.0\13-Colecciones.pdb
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.AssemblyInfoInputs.cache
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.AssemblyInfo.cs
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.sourcelink.json
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.dll
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\refint\13-Colecciones.dll
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.pdb
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\13-Colecciones.genruntimeconfig.cache
+D:\Documentos\C#\13-Colecciones\obj\Debug\net8.0\ref\13-Colecciones.dll

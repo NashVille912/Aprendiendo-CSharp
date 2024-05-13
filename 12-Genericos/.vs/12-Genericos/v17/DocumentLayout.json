@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Documentos\\C#\\12-Genericos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC7BDBC5-8FFE-45DF-93B1-FA0E4618141E}|12-Genericos.csproj|d:\\documentos\\c#\\12-genericos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC7BDBC5-8FFE-45DF-93B1-FA0E4618141E}|12-Genericos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC7BDBC5-8FFE-45DF-93B1-FA0E4618141E}|12-Genericos.csproj|d:\\documentos\\c#\\12-genericos\\almacenobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC7BDBC5-8FFE-45DF-93B1-FA0E4618141E}|12-Genericos.csproj|solutionrelative:almacenobjeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,34 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AlmacenObjeto.cs",
-              "DocumentMoniker": "D:\\Documentos\\C#\\12-Genericos\\AlmacenObjeto.cs",
-              "RelativeDocumentMoniker": "AlmacenObjeto.cs",
-              "ToolTip": "D:\\Documentos\\C#\\12-Genericos\\AlmacenObjeto.cs",
-              "RelativeToolTip": "AlmacenObjeto.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAowBgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:36:55.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Empleado.cs",
-              "DocumentMoniker": "D:\\Documentos\\C#\\12-Genericos\\Empleado.cs",
-              "RelativeDocumentMoniker": "Empleado.cs",
-              "ToolTip": "D:\\Documentos\\C#\\12-Genericos\\Empleado.cs",
-              "RelativeToolTip": "Empleado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T12:35:52.829Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -57,15 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documentos\\C#\\12-Genericos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Documentos\\C#\\12-Genericos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBIAAAAKAAAA",
+              "Title": "AlmacenObjeto.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\12-Genericos\\AlmacenObjeto.cs",
+              "RelativeDocumentMoniker": "AlmacenObjeto.cs",
+              "ToolTip": "D:\\Documentos\\C#\\12-Genericos\\AlmacenObjeto.cs",
+              "RelativeToolTip": "AlmacenObjeto.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T11:29:49.261Z",
+              "WhenOpened": "2024-05-10T12:36:55.459Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "D:\\Documentos\\C#\\12-Genericos\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "D:\\Documentos\\C#\\12-Genericos\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:35:52.829Z"
             }
           ]
         }
