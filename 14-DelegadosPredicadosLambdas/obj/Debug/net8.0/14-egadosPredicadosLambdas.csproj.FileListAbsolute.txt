@@ -1,0 +1,15 @@
+D:\Documentos\C#\14-egadosPredicadosLambdas\bin\Debug\net8.0\14-egadosPredicadosLambdas.exe
+D:\Documentos\C#\14-egadosPredicadosLambdas\bin\Debug\net8.0\14-egadosPredicadosLambdas.deps.json
+D:\Documentos\C#\14-egadosPredicadosLambdas\bin\Debug\net8.0\14-egadosPredicadosLambdas.runtimeconfig.json
+D:\Documentos\C#\14-egadosPredicadosLambdas\bin\Debug\net8.0\14-egadosPredicadosLambdas.dll
+D:\Documentos\C#\14-egadosPredicadosLambdas\bin\Debug\net8.0\14-egadosPredicadosLambdas.pdb
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.AssemblyInfoInputs.cache
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.AssemblyInfo.cs
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.sourcelink.json
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.dll
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\refint\14-egadosPredicadosLambdas.dll
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.pdb
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\14-egadosPredicadosLambdas.genruntimeconfig.cache
+D:\Documentos\C#\14-egadosPredicadosLambdas\obj\Debug\net8.0\ref\14-egadosPredicadosLambdas.dll

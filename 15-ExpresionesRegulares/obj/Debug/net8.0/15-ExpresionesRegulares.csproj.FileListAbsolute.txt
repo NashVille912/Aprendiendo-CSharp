@@ -1,0 +1,15 @@
+D:\Documentos\C#\15-ExpresionesRegulares\bin\Debug\net8.0\15-ExpresionesRegulares.exe
+D:\Documentos\C#\15-ExpresionesRegulares\bin\Debug\net8.0\15-ExpresionesRegulares.deps.json
+D:\Documentos\C#\15-ExpresionesRegulares\bin\Debug\net8.0\15-ExpresionesRegulares.runtimeconfig.json
+D:\Documentos\C#\15-ExpresionesRegulares\bin\Debug\net8.0\15-ExpresionesRegulares.dll
+D:\Documentos\C#\15-ExpresionesRegulares\bin\Debug\net8.0\15-ExpresionesRegulares.pdb
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.AssemblyInfoInputs.cache
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.AssemblyInfo.cs
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.csproj.CoreCompileInputs.cache
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.sourcelink.json
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.dll
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\refint\15-ExpresionesRegulares.dll
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.pdb
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\15-ExpresionesRegulares.genruntimeconfig.cache
+D:\Documentos\C#\15-ExpresionesRegulares\obj\Debug\net8.0\ref\15-ExpresionesRegulares.dll
